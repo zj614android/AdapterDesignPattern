@@ -1,6 +1,4 @@
 package adp.zj.com.adapterdesparttern.对象适配器模式;
-
-
 import adp.zj.com.adapterdesparttern.类适配器模式.Adaptee220V;
 import adp.zj.com.adapterdesparttern.类适配器模式.Target5V;
 
